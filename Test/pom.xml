@@ -2,6 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>gr</groupId>
   <artifactId>Test</artifactId>
-  <version>0.0.1-SNAPSHOTm</version>
+ <!-- <version>0.0.1-SNAPSHOTm</version> -->
+  <version>0.0.1-SNAPSHOTmm</version>
   <packaging>war</packaging>
 </project>
